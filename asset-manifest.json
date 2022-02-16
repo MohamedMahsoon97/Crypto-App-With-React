@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Crypto-App-With-React/static/css/main.e2503075.chunk.css",
+    "main.js": "/Crypto-App-With-React/static/js/main.6f21a12b.chunk.js",
+    "main.js.map": "/Crypto-App-With-React/static/js/main.6f21a12b.chunk.js.map",
+    "runtime-main.js": "/Crypto-App-With-React/static/js/runtime-main.d2cf899b.js",
+    "runtime-main.js.map": "/Crypto-App-With-React/static/js/runtime-main.d2cf899b.js.map",
+    "static/js/2.c7d792cf.chunk.js": "/Crypto-App-With-React/static/js/2.c7d792cf.chunk.js",
+    "static/js/2.c7d792cf.chunk.js.map": "/Crypto-App-With-React/static/js/2.c7d792cf.chunk.js.map",
+    "index.html": "/Crypto-App-With-React/index.html",
+    "static/css/main.e2503075.chunk.css.map": "/Crypto-App-With-React/static/css/main.e2503075.chunk.css.map",
+    "static/js/2.c7d792cf.chunk.js.LICENSE.txt": "/Crypto-App-With-React/static/js/2.c7d792cf.chunk.js.LICENSE.txt",
+    "static/media/btc-img.861a3df7.png": "/Crypto-App-With-React/static/media/btc-img.861a3df7.png",
+    "static/media/hero-img.66b9eb77.png": "/Crypto-App-With-React/static/media/hero-img.66b9eb77.png",
+    "static/media/trade.a2c09083.png": "/Crypto-App-With-React/static/media/trade.a2c09083.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2cf899b.js",
+    "static/js/2.c7d792cf.chunk.js",
+    "static/css/main.e2503075.chunk.css",
+    "static/js/main.6f21a12b.chunk.js"
+  ]
+}
