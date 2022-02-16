@@ -1,25 +1,23 @@
-import logo from './logo.svg';
+import axios from 'axios';
+import { BrowserRouter , Route } from 'react-router-dom';
 import './App.css';
+import Featured from './components/Featured/Featured';
+import Footer from './components/Footer/Footer';
+import Hero from './components/Hero/Hero';
+import Navbar from './components/Navbar/Navbar';
+import SignUp from './components/SignUp/SignUp';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+const App = () => {
+    
+    return (
+        <div>
+            <Navbar />
+            <Hero />
+            <Featured />
+            <SignUp />
+            <Footer />
+        </div>
+    )
 }
 
 export default App;
